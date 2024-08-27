@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:147551001214:android:e711d2bc657deef3c6d62f",
         "android_client_info": {
-          "package_name": "com.example.app"
+          "package_name": "com.daveydark.clockwise"
         }
       },
       "oauth_client": [],
